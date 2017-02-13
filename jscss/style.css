@@ -41,7 +41,8 @@ body {
 	overflow:hidden;
 	position:absolute;
 	left:80px;
-	top:900px;
+	margin-top: 100px;
+	/*top:900px;*/
 	width:650px;
 	opacity:0;
 	filter:alpha(opacity=0.7)
