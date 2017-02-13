@@ -94,7 +94,10 @@ body {
 .roundabout-holder  { 
 	width:1000px;
 	height:600px;
-	margin: 1000px 100px;
+
+
+	margin:1000px 5px 15px 20px;
+	/*margin: 1000px 100px;*/
 	/*left: 100px;*/
 }
 .roundabout-moveable-item {
