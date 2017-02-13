@@ -41,7 +41,7 @@ body {
 	overflow:hidden;
 	position:absolute;
 	left:80px;
-	top:900px;
+	top:1500px;
 	width:650px;
 	opacity:0;
 	filter:alpha(opacity=0.7)
@@ -96,8 +96,8 @@ body {
 	height:600px;
 
 
-	margin:1000px 5px 15px 20px;
-	/*margin: 1000px 100px;*/
+	/*margin:1000px 5px 15px 20px;*/
+	margin: 1000px 100px;
 	/*left: 100px;*/
 }
 .roundabout-moveable-item {
