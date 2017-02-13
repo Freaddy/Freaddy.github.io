@@ -19,7 +19,7 @@ function move(){
           //通过left样式属性设置。必须带单位
           obj.style.left = left + "px";
           //通过top样式属性设置，必须带单位
-          obj.style.top = top - num * 2 + "px";
+          obj.style.top = top - num * 4 + "px";
           //计数器加一
           obj.style.opacity =   num  / 140.0;
           num++;
